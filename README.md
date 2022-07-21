@@ -1,3 +1,6 @@
 # Open News v1
 
-version 1.1.0 - fully functional / synced with main branch
+Made using React (class compponents)
+For function components see Open News v2 - https://github.com/arryhere/Open-News-v2
+
+Free to use :)
